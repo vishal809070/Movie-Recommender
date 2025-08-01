@@ -1,0 +1,41 @@
+.cast-section {
+  margin: 2rem 0;
+  padding: 0 1rem;
+}
+
+.cast-section h3 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.cast-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.cast-card {
+  width: 140px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.cast-card img {
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.cast-name {
+  margin: 0.5rem 0 0.2rem;
+  font-weight: bold;
+}
+
+.cast-character {
+  color: gray;
+  font-size: 0.9rem;
+}
