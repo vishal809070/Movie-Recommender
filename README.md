@@ -4,7 +4,7 @@ This is a full-featured **TMDB (The Movie Database) Clone** built with **React**
 
 ## 🚀 Live Demo
 
-👉(https://unique-halva-89ed38.netlify.app/)(https://unique-halva-89ed38.netlify.app/)
+👉(https://unique-halva-89ed38.netlify.app/)
 
 ---
 
