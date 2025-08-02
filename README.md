@@ -50,7 +50,22 @@ This is a full-featured **TMDB (The Movie Database) Clone** built with **React**
 - Material UI components with modern layout
 - Responsive navigation bar
 
----
 
-## 📁 Folder Structure
+🧠 Author
+
+Vishal Gupta
+
+📧 vishal809070@gmail.com
+
+📍 Sahabganj, Ayodhya, Uttar Pradesh
+
+
+
+🙌 Credits
+
+🎬 TMDB API — for movie and TV show data
+
+🛠 Supabase — for authentication, database, and storage
+
+🎨 Material UI — for responsive UI components and theme support
 
